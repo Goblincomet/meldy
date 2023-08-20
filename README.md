@@ -82,7 +82,7 @@ Bibliography
 11. Sarti, A. (2019). Computer Music: Representation and Models. _Course material of MSc in Music and Acoustic Engineering_
 
 ----
- © 2020 Matteo Bernardini & Yilin Zhu
+ © 202 Henry Patterson
 
 
 [m21]:     http://web.mit.edu/music21/
